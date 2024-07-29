@@ -11,7 +11,7 @@ VisaraTechSolutions is dedicated to providing innovative IT solutions for creati
 - **💞️ We’re looking to collaborate on:** Projects that require expert web development, cloud solutions, and comprehensive IT support. We're eager to partner with businesses and individuals who share our passion for technology and innovation.
 
 ## Reach Out to Us
-- **📫 How to reach us:** You can contact us via email at [mailto:](support@visaratech.com). We are also active on [LinkedIn](https://www.linkedin.com/company/visaratechsolutions).
+- **📫 How to reach us:** You can contact us via email at [support@visaratech.com](mailto:support@visaratech.com). We are also active on [LinkedIn](https://www.linkedin.com/company/visaratechsolutions).
 
 ## More About Us
 - **😄 Pronouns:** We are a diverse and inclusive team, welcoming all pronouns.
